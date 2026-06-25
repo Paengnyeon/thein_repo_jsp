@@ -1,10 +1,7 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
-<!DOCTYPE html>
+<%@ page contentType="text/html; charset=utf-8"%>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Security</title>
 </head>
 <body>
 	<form name="loginForm" action="j_security_check" method="post">
